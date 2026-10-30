@@ -1,0 +1,3 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Технические работы — Masonry</title><link rel="icon" href="{THEME}/images/favicon.ico"><link rel="stylesheet" href="{THEME}/css/site.css?v=40"></head>
+<body class="offline-page"><main class="offline-card"><span class="intro-kicker">Masonry / Журнал</span><h1>Скоро вернёмся</h1><p>Сейчас на сайте проходят технические работы.</p><div class="offline-reason">{reason}</div><p>Пожалуйста, загляните немного позже.</p></main></body></html>

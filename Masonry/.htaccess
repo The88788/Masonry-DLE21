@@ -1,0 +1,15 @@
+Order allow,deny
+Deny from all
+
+<FilesMatch "\.(css)$|^$">
+   Order deny,allow
+   Allow from all
+</FilesMatch>
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/css application/javascript text/javascript image/svg+xml
+</IfModule>
+<IfModule mod_headers.c>
+  <FilesMatch "\.(css|js|woff2|png|jpg|gif|ico|svg)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+</IfModule>

@@ -1,0 +1,7 @@
+/* Loaded by DLE into its isolated rich-text editor frames. */
+body{font:16px/1.75 system-ui,sans-serif;color:#202739;background:#fff;margin:16px;overflow-wrap:anywhere}
+body[data-theme=dark]{color:#eef0f7;background:#202535;color-scheme:dark}
+img,video,iframe{max-width:100%;height:auto}a{color:#6434c9;text-decoration:underline}body[data-theme=dark] a{color:#b49aff}
+blockquote{border-left:3px solid #9671e1;margin:16px 0;padding-left:16px}pre{white-space:pre-wrap}table{max-width:100%;border-collapse:collapse}td,th{border:1px solid #9299ab;padding:6px}
+
+.mce-content-body[data-theme=dark][data-mce-placeholder]:before{color:#b5bdd0!important}.mce-content-body[data-theme=light][data-mce-placeholder]:before{color:#596579!important}

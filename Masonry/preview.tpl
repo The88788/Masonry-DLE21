@@ -1,0 +1,3 @@
+[short-preview]<article class="post-card"><div class="post-card-content"><h2>{title}</h2><div class="post-single-body">{short-story}</div></div></article>[/short-preview]
+[full-preview]<article class="post-single"><h1>{title}</h1><div class="post-single-body">{full-story}</div></article>[/full-preview]
+[static-preview]<article class="post-single"><h1>{description}</h1><div class="post-single-body">{static}</div>{pages}</article>[/static-preview]

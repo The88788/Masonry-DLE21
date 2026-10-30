@@ -1,0 +1,3 @@
+/* DLE opens publication previews as a standalone document. */
+@import url("css/site.css?v=40");
+body{padding:24px;margin:0;background:var(--canvas)}.post-single,.post-card{max-width:1000px;margin:0 auto 24px}.post-single h1{margin-bottom:24px}.post-card-content{padding:24px}
